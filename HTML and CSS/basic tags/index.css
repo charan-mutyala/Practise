@@ -1,0 +1,24 @@
+/* h1{
+    color:blue;
+} */
+.navication #li1{
+background-color: blue;
+border: 2px solid yellow;
+margin: 50px;
+padding: 20px 10px 30px 15px ;
+}
+a{
+    display: block;
+}
+
+table,tr,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 500px;
+    height: 50px;
+}
+/* }
+tr:nth-child(odd){
+    background-color: bisque;
+} */
+
